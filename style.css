@@ -1,0 +1,113 @@
+body{
+    margin: 0;
+    font-family: 'Nunito', sans-serif;
+}
+section{
+    height: 550px;
+}
+.header{
+    background-image: url("img/header-bg.png");
+}
+.half-box{
+    width: 40%;
+    float: left;
+    margin-top: 20px;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+
+.header-img img{
+    height: 500px;
+}
+
+.header-text h1{
+    font-size: 60px;
+    color: #EC4C7A;
+}
+
+.header-text h2{
+    font-size: 40px;
+}
+.header-text a{
+    text-decoration: none;
+    background: linear-gradient(45deg, #EC4C7A, #ec658b);
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+
+.biography-sec{
+    background-image: url("img/biography-bg.png");
+}
+
+.biography-sec img{
+    height: 550px;
+}
+
+.biography-sec h2{
+    font-size: 50px;
+    color: #EC4C7A;
+}
+
+.biography-sec a{
+    text-decoration: none;
+    background: linear-gradient(45deg, #EC4C7A, #ec658b);
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+
+.latest-work{
+    background-image: url("img/latest-work-bg.png");
+}
+
+.latest-work h1{
+    font-size: 50px;
+    text-align: center;
+}
+
+.latest-work img{
+    margin-left: 3%;
+    padding: 1%;
+    width: 27%;
+    border-radius: 20px;
+}
+
+.footer{
+    text-align: center;
+    align-items: center;
+}
+
+.footer h1{
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.client{
+    font-size: 20px;
+}
+
+.client-po{
+    font-size: 15px;
+    color: #969696;
+}
+
+.footer-box{
+    background-color: #EC4C7A;
+    width: 600px;
+    padding: 17px 70px;
+    border-radius: 20px;
+    color: #ffffff;
+    margin-left: 22%;
+}
+
+.footer{
+    background-image: url("img/footer-bg.png");
+    height: 700px;
+}
+
+.footer p{
+    color: gray;
+}
